@@ -1,0 +1,15 @@
+/Users/kittinunchobtham/Desktop/Employee/bin/Debug/net5.0/Employee.deps.json
+/Users/kittinunchobtham/Desktop/Employee/bin/Debug/net5.0/Employee.runtimeconfig.json
+/Users/kittinunchobtham/Desktop/Employee/bin/Debug/net5.0/Employee.runtimeconfig.dev.json
+/Users/kittinunchobtham/Desktop/Employee/bin/Debug/net5.0/Employee.dll
+/Users/kittinunchobtham/Desktop/Employee/bin/Debug/net5.0/ref/Employee.dll
+/Users/kittinunchobtham/Desktop/Employee/bin/Debug/net5.0/Employee.pdb
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.csproj.AssemblyReference.cache
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.AssemblyInfoInputs.cache
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.AssemblyInfo.cs
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.csproj.CoreCompileInputs.cache
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.dll
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/ref/Employee.dll
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.pdb
+/Users/kittinunchobtham/Desktop/Employee/obj/Debug/net5.0/Employee.genruntimeconfig.cache
